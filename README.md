@@ -1,2 +1,2 @@
 # JQuery
-Not many exercises, but everything I will need is in my OneNote for a quick grasp.
+See Simon Game capstone project for real implementation.
